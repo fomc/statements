@@ -30,6 +30,9 @@ Another powerful benefit of having these statements in GitHub is the ability to 
 As this is a public repository on GitHub, we can now have a centralized discussion about any of these communcations or any of changes between communcations using the comment functionality. For instance, we [can have a discussion](https://github.com/fomc/statements/commit/65982075a5613fcfa4e3d1e5fb48c31deb9027d9#commitcomment-18433385) about the subtle change in words between two statements.
 
 ## Support
+
+[Follow me on twitter](https://twitter.com/davebryand)
+
 Bitcoin | Ether
 ------- | -----
 16LKqd56xeJBFayBB5iShVBi7tVW4DQaEw | 0x5B0A988Aba399d1095584cBf4F84Edd60d97AE0b
