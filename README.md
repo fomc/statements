@@ -40,4 +40,4 @@ All of the content in this project was pulled directly from the Federal Reserve 
 Bitcoin | Ether
 ------- | -----
 16LKqd56xeJBFayBB5iShVBi7tVW4DQaEw | 0x5B0A988Aba399d1095584cBf4F84Edd60d97AE0b
-<img width="197" alt="16LKqd56xeJBFayBB5iShVBi7tVW4DQaEw" src="https://cloud.githubusercontent.com/assets/9218/17219171/67ef54f0-54b8-11e6-9fc3-243f3c661a9a.png"> | <img width="171" alt="0x5B0A988Aba399d1095584cBf4F84Edd60d97AE0b" src="https://cloud.githubusercontent.com/assets/9218/17218915/6ab3ba2e-54b7-11e6-8749-23365886ddf3.png">
+<img width="60" alt="16LKqd56xeJBFayBB5iShVBi7tVW4DQaEw" src="https://cloud.githubusercontent.com/assets/9218/17219171/67ef54f0-54b8-11e6-9fc3-243f3c661a9a.png"> | <img width="60" alt="0x5B0A988Aba399d1095584cBf4F84Edd60d97AE0b" src="https://cloud.githubusercontent.com/assets/9218/17218915/6ab3ba2e-54b7-11e6-8749-23365886ddf3.png">
